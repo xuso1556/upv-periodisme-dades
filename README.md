@@ -1,2 +1,2 @@
 # upv-periodisme-dades
-periodisme dades
+periodisme dad
